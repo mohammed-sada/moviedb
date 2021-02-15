@@ -225,6 +225,9 @@ p {
   .movie-info {
     padding: 0.5rem 3rem;
   }
+  .movies .movie {
+    margin: 0;
+  }
 }
 
 .navbar {
