@@ -10,7 +10,7 @@ const LikedMovies = () => {
     <div className="section liked-movies">
       <div>
         <Link to="/">
-          <button className="btn">back to home</button>
+          <button className="btn">back to hooome</button>
         </Link>
         <button
           style={{ margin: "10px" }}
